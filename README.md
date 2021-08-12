@@ -1,8 +1,10 @@
 # SwiftUI POC project implementing:
 
-- Authentication
-- A simple Quizz implementation
+- Authentication/Authorization
+- A custom Quizz functionality
+- REST api to retrieve questions and answers from the Node.js server
 
-![alt text](https://github.com/dragosiancu0504/personality-test-ios/blob/main/PersoTest.gif "App Presentation")
+<img src="https://github.com/dragosiancu0504/personality-test-ios/blob/main/PersoTest.gif" width="375" height="667" />
+
 
 
