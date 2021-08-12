@@ -1,0 +1,17 @@
+/* 
+  Localizable.strings
+  PersonalityTest
+
+  Created by Dragos Iancu on 05/01/2021.
+  
+*/
+"Hello, World!" = "Hello, World! (EN)";
+"First Tab" = "First Tab (EN)";
+"Second Tab" = "Second Tab (EN)";
+"Logout" = "Logout (EN)";
+"Username" = "Username (EN)";
+"Password" = "Password (EN)";
+"Welcome to" = "Welcome to";
+"SwiftUI Starter App" = "SwiftUI Starter App";
+"Login Now 👌" = "Login Now 👌";
+"Dog Pic?" = "Dog Pic?";
